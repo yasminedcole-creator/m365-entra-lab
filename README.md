@@ -53,7 +53,7 @@ Microsoft 365 and Microsoft Entra ID.
 
 <img width="480" height="564" alt="Default password reset " src="https://github.com/user-attachments/assets/16a75cf2-efcb-4dc1-8faf-c287e2ad6e31" />
 
-<img width="960" height="1128" alt="Screenshot 2026-03-22 212506" src="https://github.com/user-attachments/assets/32ec9939-c1a0-4371-8c3b-330c6df64367" />
+
 
 ---
 
