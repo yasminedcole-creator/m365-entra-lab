@@ -28,7 +28,6 @@ Microsoft 365 and Microsoft Entra ID.
 
 <img width="473" height="493" alt="Sarah Jones onboarding" src="https://github.com/user-attachments/assets/b259f490-367d-423b-8949-06cdff55c65c" />
 
-<img width="953" height="968" alt="Screenshot 2026-03-22 203724" src="https://github.com/user-attachments/assets/2f0a81fc-84e0-461f-944f-983534b7628f" />
 
 ---
 
